@@ -9,3 +9,10 @@ käynnistyskomennoista.
 
 Pidä tämä repo osoittimena oikeisiin toteutuksiin. Älä lisää rinnakkaista haastattelusovellusta tai kopioi
 muiden repoiden käynnistyskomentoja tänne paikallisesti ajettavina.
+
+## Testidata
+
+[README:n testidata- ja seedausosio](README.md#testidata-ja-seedaus) kertoo nykyisen menetelmän, tarkistuksen
+ja mahdollisen toteuttamattoman jatkoidean. Ei ajettavaa sovellusta tai seedattavaa kantaa tässä repossa.
+Noudata myös AGENTS.md:n testidataohjetta. Fixture, paikallinen seed ja ulkoiseen palveluun kirjoittava
+työkalu ovat eri ajotapoja; älä käynnistä kirjoituksia pelkän dokumentaation tarkistukseksi.

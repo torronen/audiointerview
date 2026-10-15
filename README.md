@@ -28,3 +28,17 @@ Käynnistys, konfiguraatio, testaus ja tunnetut rajat kuvataan toteutusrepon REA
 
 Tätä repoa säilytetään vanhojen linkkien vuoksi. Uusi sovelluskoodi ja korjaukset
 tehdään yllä oleviin toteutusrepoihin.
+
+## Testidata ja seedaus
+
+**Nykyinen menetelmä:** Ei ajettavaa sovellusta tai seedattavaa kantaa tässä repossa.
+
+Haastattelun testidata luodaan efiapps/interview-simin DEMO.md:n nykyisellä paikallisella seed-endpointilla.
+Puhe-/tapahtumafixuret ovat torronen/audiogen-repossa. Tähän linkkirepoon ei asenneta toista seed- tai
+tietokantatoteutusta.
+
+**Varmista tulos ja uusinta:** Varmista linkit toteutusrepojen main-versioon. Niissä syntyneen demon
+toimivuutta ei päätellä tästä hakemistosta.
+
+**Jatkoidea (ei toteutettu tässä työssä):** Jos demon kattavuutta laajennetaan, lisää skenaario toteutusrepon
+olemassa olevaan seed- tai fixture-rakenteeseen ja pidä täällä vain linkki.
